@@ -1,5 +1,7 @@
 # Doctrina
 
+> Doctrina is a Latin noun meaning "teaching," "instruction," "learning," or "body of knowledge."
+
 A personal collection of technical learning exercises, interview-style attempts, feedback, and lessons learned.
 
 ---
